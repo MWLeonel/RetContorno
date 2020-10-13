@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.exe
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.deps.json
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.runtimeconfig.json
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.runtimeconfig.dev.json
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.dll
+C:\Users\Max\Desktop\RetContorno\RetContorno\bin\Debug\netcoreapp3.1\RetContorno.pdb
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.AssemblyInfo.cs
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.dll
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.pdb
+C:\Users\Max\Desktop\RetContorno\RetContorno\obj\Debug\netcoreapp3.1\RetContorno.genruntimeconfig.cache
